@@ -6,3 +6,6 @@ In this Repository you will get learning materials for PowerApps development
 
 2. Material No:2
      https://devoworx.net/powerapps/
+     
+3. Material No:3
+     https://mindmajix.com/what-is-powerapps
