@@ -48,25 +48,25 @@ If you’re looking for a way to improve your business operations, save time and
 👨‍💻👨‍💻 YouTube Tutorials :
  ------------------------
 
-     1. https://www.youtube.com/watch?v=KcPLJ2FH7HM
+   1. https://www.youtube.com/watch?v=KcPLJ2FH7HM
      
-     2. https://www.youtube.com/watch?v=2RzCbd5XgJg
+   2. https://www.youtube.com/watch?v=2RzCbd5XgJg
      
-     3. https://www.youtube.com/watch?v=Dv_mGWwCiLU
+   3. https://www.youtube.com/watch?v=Dv_mGWwCiLU
      
-     4. https://www.youtube.com/watch?v=FMv-Mbmz9o4
+   4. https://www.youtube.com/watch?v=FMv-Mbmz9o4
      
-     5. https://www.youtube.com/watch?v=06txEJbO4QI
+   5. https://www.youtube.com/watch?v=06txEJbO4QI
      
-     6. https://www.youtube.com/watch?v=Jj4ZYztnUQ0
+   6. https://www.youtube.com/watch?v=Jj4ZYztnUQ0
      
-     7. https://www.youtube.com/watch?v=fE-CZS-64Us
+   7. https://www.youtube.com/watch?v=fE-CZS-64Us
      
-     8. https://www.youtube.com/watch?v=1UX21GKMLJg
+   8. https://www.youtube.com/watch?v=1UX21GKMLJg
      
-     9. https://www.youtube.com/watch?v=KFjJ97dKzO8
+   9. https://www.youtube.com/watch?v=KFjJ97dKzO8
      
-     10. https://www.youtube.com/watch?v=Bz8nhSDlhuE
+   10. https://www.youtube.com/watch?v=Bz8nhSDlhuE
      
      
 👩‍💻👨‍💻PowerApps Platform Community Forums :
@@ -75,9 +75,9 @@ If you’re looking for a way to improve your business operations, save time and
 This forum is for all professional developers & ISVs looking to build business apps on the Power Platform. It also covers topics like Power Apps component framework, Application Lifecycle Management (ALM), and how to monitor your apps post AppSource publication via ISV Studio.
 
      
-                 1. https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1
+   1. https://powerusers.microsoft.com/t5/Power-Apps-Community/ct-p/PowerApps1
       
-                 2. https://powerusers.microsoft.com/t5/Forums/ct-p/PA_Comm_Forums
+   2. https://powerusers.microsoft.com/t5/Forums/ct-p/PA_Comm_Forums
       
       
 
